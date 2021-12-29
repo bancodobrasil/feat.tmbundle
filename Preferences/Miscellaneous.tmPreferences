@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Miscellaneous</string>
 	<key>scope</key>
-	<string>source.ini</string>
+	<string>source.feat</string>
 	<key>settings</key>
 	<dict>
 		<key>disableIndentCorrections</key>
@@ -35,12 +35,6 @@
 				<key>value</key>
 				<string>; </string>
 			</dict>
-			<dict>
-				<key>name</key>
-				<string>TM_COMMENT_START_2</string>
-				<key>value</key>
-				<string># </string>
-			</dict>
 		</array>
 		<key>smartTypingPairs</key>
 		<array>
@@ -67,6 +61,6 @@
 		</array>
 	</dict>
 	<key>uuid</key>
-	<string>B96176DC-70A3-415B-8B5A-315910AA369B</string>
+	<string>A3D56F00-BF10-42BB-8F1C-0F4DAA56CC12</string>
 </dict>
 </plist>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>name</key>
 	<string>Symbol List Items</string>
 	<key>scope</key>
-	<string>source.ini entity.name.section.group-title.ini</string>
+	<string>source.feat entity.name.section.group-title.feat</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
@@ -14,6 +14,6 @@
 		<string>s/^\[(\w+)\]$/  $1/;</string>
 	</dict>
 	<key>uuid</key>
-	<string>44CAEF12-223E-11DB-BE7D-0011242E4184</string>
+	<string>9187B658-D0D1-4504-8D7A-A5A20C549171</string>
 </dict>
 </plist>

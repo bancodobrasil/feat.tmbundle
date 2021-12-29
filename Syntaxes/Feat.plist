@@ -4,48 +4,12 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>ini</string>
-		<string>conf</string>
+		<string>src</string>
 	</array>
-	<key>keyEquivalent</key>
-	<string>^~I</string>
 	<key>name</key>
-	<string>Ini</string>
+	<string>Feat</string>
 	<key>patterns</key>
 	<array>
-		<dict>
-			<key>begin</key>
-			<string>(^[ \t]+)?(?=#)</string>
-			<key>beginCaptures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>punctuation.whitespace.comment.leading.ini</string>
-				</dict>
-			</dict>
-			<key>end</key>
-			<string>(?!\G)</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>begin</key>
-					<string>#</string>
-					<key>beginCaptures</key>
-					<dict>
-						<key>0</key>
-						<dict>
-							<key>name</key>
-							<string>punctuation.definition.comment.ini</string>
-						</dict>
-					</dict>
-					<key>end</key>
-					<string>\n</string>
-					<key>name</key>
-					<string>comment.line.number-sign.ini</string>
-				</dict>
-			</array>
-		</dict>
 		<dict>
 			<key>begin</key>
 			<string>(^[ \t]+)?(?=;)</string>
@@ -174,8 +138,8 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.ini</string>
+	<string>source.feat</string>
 	<key>uuid</key>
-	<string>77DC23B6-8A90-11D9-BAA4-000A9584EC8C</string>
+	<string>D7117217-1A91-4801-9AD4-09604E394E85</string>
 </dict>
 </plist>
