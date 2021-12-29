@@ -7,7 +7,7 @@
 		<string>src</string>
 	</array>
 	<key>name</key>
-	<string>Feat</string>
+	<string>FeatWS</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -18,7 +18,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.whitespace.comment.leading.feat</string>
+					<string>punctuation.whitespace.comment.leading.featws</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -33,13 +33,13 @@
 						<key>0</key>
 						<dict>
 							<key>name</key>
-							<string>punctuation.definition.comment.feat</string>
+							<string>punctuation.definition.comment.featws</string>
 						</dict>
 					</dict>
 					<key>end</key>
 					<string>\n</string>
 					<key>name</key>
-					<string>comment.line.semicolon.feat</string>
+					<string>comment.line.semicolon.featws</string>
 				</dict>
 			</array>
 		</dict>
@@ -49,12 +49,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.other.definition.feat</string>
+					<string>keyword.other.definition.featws</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.separator.key-value.feat</string>
+					<string>punctuation.separator.key-value.featws</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -66,18 +66,18 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.entity.feat</string>
+					<string>punctuation.definition.entity.featws</string>
 				</dict>
 				<key>3</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.entity.feat</string>
+					<string>punctuation.definition.entity.featws</string>
 				</dict>
 			</dict>
 			<key>match</key>
 			<string>^(\[)(.*?)(\])</string>
 			<key>name</key>
-			<string>entity.name.section.group-title.feat</string>
+			<string>entity.name.section.group-title.featws</string>
 		</dict>
 		<dict>
 			<key>begin</key>
@@ -87,7 +87,7 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.string.begin.feat</string>
+					<string>punctuation.definition.string.begin.featws</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -97,18 +97,18 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.string.end.feat</string>
+					<string>punctuation.definition.string.end.featws</string>
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>string.quoted.single.feat</string>
+			<string>string.quoted.single.featws</string>
 			<key>patterns</key>
 			<array>
 				<dict>
 					<key>match</key>
 					<string>\\.</string>
 					<key>name</key>
-					<string>constant.character.escape.feat</string>
+					<string>constant.character.escape.featws</string>
 				</dict>
 			</array>
 		</dict>
@@ -120,7 +120,7 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.string.begin.feat</string>
+					<string>punctuation.definition.string.begin.featws</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -130,15 +130,15 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.definition.string.end.feat</string>
+					<string>punctuation.definition.string.end.featws</string>
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>string.quoted.double.feat</string>
+			<string>string.quoted.double.featws</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.feat</string>
+	<string>source.featws</string>
 	<key>uuid</key>
 	<string>D7117217-1A91-4801-9AD4-09604E394E85</string>
 </dict>

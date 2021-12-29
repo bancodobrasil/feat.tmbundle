@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string></string>
+	<string>raphaelcpinto@gmail.com</string>
 	<key>contactName</key>
 	<string>Raphael Pinto</string>
 	<key>description</key>
-	<string>Support for Feat language used for write rules in &lt;a href="https://github.com/bancodobrasil/featws"&gt;FeatWS&lt;/a&gt;.</string>
+	<string>Support for FeatWS language used for write rules in &lt;a href="https://github.com/bancodobrasil/featws"&gt;FeatWS&lt;/a&gt;.</string>
 	<key>name</key>
-	<string>Feat</string>
+	<string>FeatWS</string>
 	<key>uuid</key>
 	<string>EADA36EC-D580-434B-AC85-B070CEE5BFE8</string>
 </dict>

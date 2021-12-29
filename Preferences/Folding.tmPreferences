@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Folding</string>
 	<key>scope</key>
-	<string>source.feat</string>
+	<string>source.featws</string>
 	<key>settings</key>
 	<dict>
 		<key>foldingStartMarker</key>
